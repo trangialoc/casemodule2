@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="@localhost">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.43">
+    <root id="1">
+      <DefaultCasing>lower/lower</DefaultCasing>
+      <DefaultEngine>InnoDB</DefaultEngine>
+      <DefaultTmpEngine>InnoDB</DefaultTmpEngine>
+      <Grants>|root||root|localhost|ALTER|G
+|root||root|localhost|ALTER ROUTINE|G
+|root||root|localhost|CREATE|G
+|root||root|localhost|CREATE ROLE|G
+|root||root|localhost|CREATE ROUTINE|G
+|root||root|localhost|CREATE TABLESPACE|G
+|root||root|localhost|CREATE TEMPORARY TABLES|G
+|root||root|localhost|CREATE USER|G
+|root||root|localhost|CREATE VIEW|G
+|root||root|localhost|DELETE|G
+|root||root|localhost|DROP|G
+|root||root|localhost|DROP ROLE|G
+|root||root|localhost|EVENT|G
+|root||root|localhost|EXECUTE|G
+|root||root|localhost|FILE|G
+|root||root|localhost|INDEX|G
+|root||root|localhost|INSERT|G
+|root||root|localhost|LOCK TABLES|G
+|root||root|localhost|PROCESS|G
+|root||root|localhost|REFERENCES|G
+|root||root|localhost|RELOAD|G
+|root||root|localhost|REPLICATION CLIENT|G
+|root||root|localhost|REPLICATION SLAVE|G
+|root||root|localhost|SELECT|G
+|root||root|localhost|SHOW DATABASES|G
+|root||root|localhost|SHOW VIEW|G
+|root||root|localhost|SHUTDOWN|G
+|root||root|localhost|SUPER|G
+|root||root|localhost|TRIGGER|G
+|root||root|localhost|UPDATE|G
+|root||root|localhost|grant option|G
+sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
+      <ServerVersion>8.0.0</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="bt1_csdl">
+      <Current>1</Current>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="3" parent="1" name="casemodun_3">
+      <CollationName>utf8_unicode_ci</CollationName>
+    </schema>
+    <schema id="4" parent="1" name="classicmodels">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="5" parent="1" name="deme_x3">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="6" parent="1" name="fpt">
+      <CollationName>utf8_unicode_ci</CollationName>
+    </schema>
+    <schema id="7" parent="1" name="information_schema">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="8" parent="1" name="mysql">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="9" parent="1" name="ngay2_bai_1">
+      <CollationName>utf8_unicode_ci</CollationName>
+    </schema>
+    <schema id="10" parent="1" name="ngay2_bai_2">
+      <CollationName>utf8_unicode_ci</CollationName>
+    </schema>
+    <schema id="11" parent="1" name="ngay2_bai_3">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="12" parent="1" name="ngay2_bai_4">
+      <CollationName>utf8_unicode_ci</CollationName>
+    </schema>
+    <schema id="13" parent="1" name="ngay3_bai_1">
+      <CollationName>utf8_unicode_ci</CollationName>
+    </schema>
+    <schema id="14" parent="1" name="ngay3_bai_4">
+      <CollationName>utf8_unicode_ci</CollationName>
+    </schema>
+    <schema id="15" parent="1" name="ngay_1">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="16" parent="1" name="performance_schema">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="17" parent="1" name="studenttest">
+      <CollationName>utf8_unicode_ci</CollationName>
+    </schema>
+    <schema id="18" parent="1" name="sys">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <user id="19" parent="1" name="mysql.sys">
+      <CanLogin>0</CanLogin>
+      <Host>localhost</Host>
+    </user>
+    <user id="20" parent="1" name="root">
+      <Host>localhost</Host>
+    </user>
+    <table id="21" parent="3" name="cart">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_unicode_ci</CollationName>
+    </table>
+    <table id="22" parent="3" name="detailcart">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_unicode_ci</CollationName>
+    </table>
+    <table id="23" parent="3" name="product">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_unicode_ci</CollationName>
+    </table>
+    <table id="24" parent="3" name="producttype">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_unicode_ci</CollationName>
+    </table>
+    <table id="25" parent="3" name="roles">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_unicode_ci</CollationName>
+    </table>
+    <table id="26" parent="3" name="userpassword">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_unicode_ci</CollationName>
+    </table>
+    <column id="27" parent="21" name="idCart">
+      <AutoIncrement>1</AutoIncrement>
+      <DataType>int(11)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+    </column>
+    <column id="28" parent="21" name="iduser">
+      <DataType>int(11)|0s</DataType>
+      <Position>2</Position>
+    </column>
+    <column id="29" parent="21" name="Date">
+      <DataType>date|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+    </column>
+    <column id="30" parent="21" name="Status">
+      <DataType>varchar(45)|0s</DataType>
+      <Position>4</Position>
+    </column>
+    <foreign-key id="31" parent="21" name="cart_ibfk_1">
+      <ColNames>iduser</ColNames>
+      <RefColNames>iduser</RefColNames>
+      <RefTableName>userpassword</RefTableName>
+    </foreign-key>
+    <index id="32" parent="21" name="PRIMARY">
+      <ColNames>idCart</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="33" parent="21" name="iduser">
+      <ColNames>iduser</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="34" parent="21" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="35" parent="22" name="idCart">
+      <DataType>int(11)|0s</DataType>
+      <Position>1</Position>
+    </column>
+    <column id="36" parent="22" name="idproduct">
+      <DataType>int(11)|0s</DataType>
+      <Position>2</Position>
+    </column>
+    <column id="37" parent="22" name="Amout">
+      <DataType>int(11)|0s</DataType>
+      <Position>3</Position>
+    </column>
+    <foreign-key id="38" parent="22" name="detailcart_ibfk_1">
+      <ColNames>idCart</ColNames>
+      <RefColNames>idCart</RefColNames>
+      <RefTableName>cart</RefTableName>
+    </foreign-key>
+    <index id="39" parent="22" name="idCart">
+      <ColNames>idCart</ColNames>
+      <Type>btree</Type>
+    </index>
+    <index id="40" parent="22" name="idproduct">
+      <ColNames>idproduct</ColNames>
+      <Type>btree</Type>
+    </index>
+    <column id="41" parent="23" name="idproduct">
+      <AutoIncrement>1</AutoIncrement>
+      <DataType>int(11)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+    </column>
+    <column id="42" parent="23" name="nameproduct">
+      <DataType>varchar(45)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+    </column>
+    <column id="43" parent="23" name="img">
+      <DataType>varchar(200)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+    </column>
+    <column id="44" parent="23" name="amout">
+      <DataType>int(11)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+    </column>
+    <column id="45" parent="23" name="price">
+      <DataType>int(11)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+    </column>
+    <column id="46" parent="23" name="idproductType">
+      <DataType>int(11)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+    </column>
+    <foreign-key id="47" parent="23" name="product_ibfk_1">
+      <ColNames>idproductType</ColNames>
+      <RefColNames>idproductType</RefColNames>
+      <RefTableName>producttype</RefTableName>
+    </foreign-key>
+    <index id="48" parent="23" name="PRIMARY">
+      <ColNames>idproduct</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="49" parent="23" name="idproductType">
+      <ColNames>idproductType</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="50" parent="23" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="51" parent="24" name="idproductType">
+      <AutoIncrement>1</AutoIncrement>
+      <DataType>int(11)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+    </column>
+    <column id="52" parent="24" name="productType">
+      <DataType>varchar(45)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+    </column>
+    <index id="53" parent="24" name="PRIMARY">
+      <ColNames>idproductType</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="54" parent="24" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="55" parent="25" name="id_role">
+      <AutoIncrement>1</AutoIncrement>
+      <DataType>int(11)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+    </column>
+    <column id="56" parent="25" name="Roles">
+      <DataType>varchar(45)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+    </column>
+    <index id="57" parent="25" name="PRIMARY">
+      <ColNames>id_role</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="58" parent="25" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="59" parent="26" name="iduser">
+      <AutoIncrement>1</AutoIncrement>
+      <DataType>int(11)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+    </column>
+    <column id="60" parent="26" name="name">
+      <DataType>varchar(45)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+    </column>
+    <column id="61" parent="26" name="userName">
+      <DataType>varchar(45)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+    </column>
+    <column id="62" parent="26" name="userpassWord">
+      <DataType>varchar(45)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+    </column>
+    <column id="63" parent="26" name="img">
+      <DataType>varchar(200)|0s</DataType>
+      <Position>5</Position>
+    </column>
+    <column id="64" parent="26" name="id_role">
+      <DataType>int(11)|0s</DataType>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+    </column>
+    <foreign-key id="65" parent="26" name="userpassword_ibfk_1">
+      <ColNames>id_role</ColNames>
+      <RefColNames>id_role</RefColNames>
+      <RefTableName>roles</RefTableName>
+    </foreign-key>
+    <index id="66" parent="26" name="PRIMARY">
+      <ColNames>iduser</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="67" parent="26" name="id_role">
+      <ColNames>id_role</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="68" parent="26" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+  </database-model>
+</dataSource>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82f6ffbd-c650-4722-a080-390caac30e37" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CaseDeMo/CaseDeMo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Controller/UserController_Login/LogoutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Filter/AdminFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Filter/SellerFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Filter/UserFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Modun_2/Case_Modun_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Modun_2/src/Case/DangNhap_DangKy/DangNhapDangKy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Modun_2/src/Case/DinhDangChuoi/DinhDang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Modun_2/src/Case/IO/DocVietFileNhiPhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Modun_2/src/Case/Oject/DichVu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Modun_2/src/Case/Oject/HoaDon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Modun_2/src/Case/Oject/NguoiDUng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Modun_2/src/Case/QuanLyNet/MenuQuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Modun_2/src/Case/QuanLyNet/QuanLyDoAn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Modun_2/src/Case/QuanLyNet/QuanLyNguoiDung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Modun_2/src/Case/QuanLyNguoiDung/MenuNguoiDung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DepZai/.idea/DepZai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_10/.idea/Ngay_10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_10/Bai_1and2/src/main/webapp/converter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_10/Bai_1and2/src/main/webapp/dictionary.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_10/Bai_1and2/src/main/webapp/index_2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_10/Calculator/src/main/java/model/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_10/Calculator/src/main/java/servelet/CalculatorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_10/Calculator/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_10/QLNV/src/main/java/Controler/NhanVienServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_10/QLNV/src/main/java/Models/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_10/QLNV/src/main/java/Service/NhanVienService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_10/QLNV/src/main/webapp/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_10/QLNV/src/main/webapp/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/Case_Modun3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/Case_Modun3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/Case_Modun3/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/Case_Modun3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/Case_Modun3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/Case_Modun3/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/Case_Modun3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/Case_Modun3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/Case_Modun3/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/Case_Modun3/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/Case_Modun3/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/Case_Modun3/src/main/java/com/example/case_modun3/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/Case_Modun3/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/Case_Modun3/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/demo_x3/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/demo_x3/src/main/java/Service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/demo_x3/src/main/java/controller/CreatProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/demo_x3/src/main/java/controller/DeleteProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/demo_x3/src/main/java/controller/EditProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/demo_x3/src/main/java/controller/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/demo_x3/src/main/java/dao/CRUD_Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/demo_x3/src/main/java/dao/Connect_MySql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/demo_x3/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/demo_x3/src/main/webapp/Creat.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/demo_x3/src/main/webapp/Edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/demo_x3/src/main/webapp/Signin_Signup/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/demo_x3/src/main/webapp/Signin_Signup/Signin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modun_3/Ngay_12/demo_x3/src/main/webapp/Signin_Signup/Signup.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThiThucHanh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThiThucHanh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThiThucHanh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThiThucHanh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThiThucHanh/ThiThucHanh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThiThucHanh/src/IO/IO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThiThucHanh/src/Main/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThiThucHanh/src/Object/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThiThucHanh/src/QuanLy/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThiThucHanh/src/QuanLy/QuanLySinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThiThucHanh/src/SapXep/GiamDan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThiThucHanh/src/SapXep/TangDan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThiThucHanh/src/fileSinhVien.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iPortfolio/.idea/iPortfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iPortfolio/assets/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iPortfolio/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iPortfolio/profile-img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Controller/UserController_Login/User_SigninServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controller/UserController_Login/User_SigninServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WedAdmin/WebAdmin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WedAdmin/WebAdmin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WedAdmin/WebAdminHistory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WedAdmin/WebAdminHistory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WedAdmin/WebAdminQLU.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WedAdmin/WebAdminQLU.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WedSeller/WebSeller.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WedSeller/WebSeller.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WedSeller/WebSellerCart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WedSeller/WebSellerCart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WedSeller/WebSellerHistory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WedSeller/WebSellerHistory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WedSeller/WebSellerInformation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WedSeller/WebSellerInformation.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WedUser/WebUser.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WedUser/WebUser.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WedUser/WebUserCart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WedUser/WebUserCart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WedUser/WebUserHistory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WedUser/WebUserHistory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WedUser/WebUserInformation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WedUser/WebUserInformation.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gtt03vduJyQlDFzw88ti3VlfwP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/C0722G1/CaseModun_3/src/main/webapp/Signin_Signup/Signin.jsp",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\C0722G1\CaseModun_3\src\main\webapp\WedSeller" />
+      <recent name="C:\C0722G1\CaseModun_3\src\main\webapp\WedAdmin" />
+      <recent name="C:\C0722G1\CaseModun_3\src\main\webapp\WebAdmin" />
+      <recent name="C:\C0722G1\CaseModun_3\src\main\webapp\WedUser" />
+      <recent name="C:\C0722G1\CaseModun_3\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\C0722G1\CaseModun_3\src\main\webapp\WedUser" />
+      <recent name="C:\C0722G1\CaseModun_3\src\main\webapp\Signin_Signup" />
+      <recent name="C:\C0722G1\CaseModun_3\src\main\webapp\CSS" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Controller.Product.User" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.27" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/User_SigninServlet" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.example : CaseModun_3-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="5581f147-0913-4572-a494-4606337d0a3f" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52235" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.example : CaseModun_3-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82f6ffbd-c650-4722-a080-390caac30e37" name="Changes" comment="" />
+      <created>1667219483497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667219483497</updated>
+      <workItem from="1667219484926" duration="7917000" />
+      <workItem from="1667265284472" duration="944000" />
+      <workItem from="1667278102685" duration="175000" />
+      <workItem from="1667291503577" duration="6346000" />
+      <workItem from="1667306096102" duration="11266000" />
+      <workItem from="1667320360919" duration="239000" />
+      <workItem from="1667351686345" duration="3535000" />
+      <workItem from="1667355480198" duration="10283000" />
+      <workItem from="1667403384813" duration="5952000" />
+      <workItem from="1667437849189" duration="48984000" />
+      <workItem from="1667525772817" duration="21620000" />
+      <workItem from="1667574279533" duration="8145000" />
+      <workItem from="1667586193262" duration="5000" />
+      <workItem from="1667626363756" duration="6295000" />
+      <workItem from="1667640605062" duration="2548000" />
+      <workItem from="1667661756732" duration="6523000" />
+      <workItem from="1667718378554" duration="11734000" />
+      <workItem from="1667730766405" duration="7252000" />
+      <workItem from="1667748358295" duration="34000" />
+      <workItem from="1667753965930" duration="137000" />
+      <workItem from="1667783002313" duration="9556000" />
+      <workItem from="1667816291679" duration="109000" />
+      <workItem from="1667823060597" duration="1945000" />
+      <workItem from="1667839089501" duration="3000" />
+      <workItem from="1667839138529" duration="676000" />
+      <workItem from="1667871394801" duration="4891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
